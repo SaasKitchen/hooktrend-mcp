@@ -166,8 +166,18 @@ The skill is deliberately thin: it tells the assistant when to use HookTrend and
 
 TikTok and YouTube. Not Instagram.
 
+## Privacy and data
+
+- HookTrend only receives the inputs of the tools your AI app calls (a niche, a search, a handle, a research brief). It never receives your conversation, chat history or files.
+- Your AI app receives public TikTok and YouTube data with HookTrend's scores, your team's research agents and results, and your plan and credit balance. Never your email, payment details or tokens.
+- Before anything that spends credits, HookTrend returns the cost to your AI app so it can ask you first.
+- Disconnect an AI app at any time in HookTrend under Settings → Connected apps.
+
+Full details: [Privacy Policy](https://hooktrend.com/privacy) · [Terms of Service](https://hooktrend.com/terms) (English and Spanish).
+
 ## Support
 
+- Email: support@hooked.so
 - Privacy: [hooktrend.com/privacy](https://hooktrend.com/privacy)
 - Terms: [hooktrend.com/terms](https://hooktrend.com/terms)
 - Issues with this repo: [GitHub issues](https://github.com/SaasKitchen/hooktrend-mcp/issues)
