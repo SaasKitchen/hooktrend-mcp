@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hooktrend": {
+      "type": "http",
+      "url": "https://hooktrend.com/api/mcp"
+    }
+  }
+}

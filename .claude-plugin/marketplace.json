@@ -1,0 +1,15 @@
+{
+  "name": "hooktrend",
+  "owner": { "name": "HookTrend", "url": "https://hooktrend.com" },
+  "metadata": {
+    "description": "HookTrend for Claude Code: TikTok and YouTube trend research through MCP."
+  },
+  "plugins": [
+    {
+      "name": "hooktrend",
+      "source": "./",
+      "description": "HookTrend MCP server plus a thin skill: find the TikTok and YouTube videos breaking out in any niche.",
+      "homepage": "https://hooktrend.com/mcp"
+    }
+  ]
+}

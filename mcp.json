@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hooktrend": {
+      "url": "https://hooktrend.com/api/mcp"
+    }
+  }
+}

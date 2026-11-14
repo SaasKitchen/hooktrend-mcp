@@ -1,0 +1,21 @@
+{
+  "name": "hooktrend",
+  "version": "1.0.0",
+  "description": "Find the TikTok and YouTube videos breaking out in any niche: the ones getting many times their creator's usual views. Adds the HookTrend MCP server and a skill that routes trend questions to it.",
+  "author": { "name": "HookTrend", "url": "https://hooktrend.com" },
+  "homepage": "https://hooktrend.com/mcp",
+  "repository": "https://github.com/SaasKitchen/hooktrend-mcp",
+  "license": "MIT",
+  "keywords": ["tiktok", "youtube", "trends", "viral", "outliers", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "HookTrend",
+    "shortDescription": "TikTok and YouTube videos breaking out in any niche",
+    "websiteURL": "https://hooktrend.com",
+    "privacyPolicyURL": "https://hooktrend.com/privacy",
+    "termsOfServiceURL": "https://hooktrend.com/terms",
+    "category": "Productivity",
+    "defaultPrompt": "What's breaking out on TikTok this week?"
+  }
+}
